@@ -8,8 +8,6 @@ top.resizable(width=False, height=False)
 top.configure(background='#FF763A')
 
 
-# Code goes here
-
 # H1
 title = Label(top, text='Password Generator', fg='#000000', bg='#FF763A', font='Helvetica 30 bold', pady=50).pack()
 
